@@ -241,6 +241,6 @@ public int read(byte[] b, int off, int len) throws IOException {
 [boundary-A]: {{"/boundary-A.png" | prepend: site.imgrepo }}
 [boundary-B]: {{"/boundary-B.png" | prepend: site.imgrepo }}
 [pad]: {{"/boundary-C.png" | prepend: site.imgrepo }}
-[github]: https://github.com/bit-ranger/http-multipart/releases
-[use]: https://github.com/bit-ranger/http-multipart
+[github]: https://github.com/tyler-yox/http-multipart/releases
+[use]: https://github.com/tyler-yox/http-multipart
 [commons-fileupload]: https://github.com/apache/commons-fileupload

@@ -83,8 +83,8 @@ while (true) {
 
  [完整代码][完整代码]  
     
-[上一篇]:https://bit-ranger.github.io/blog/algorithm/large-file-diff/
-[完整代码]:https://github.com/bit-ranger/architecture/blob/d9083d2fb71763557e6d4eb6875f9c001fd41596/core/src/main/java/com/rainyalley/architecture/core/arithmetic/sort/FileSorter.java
+[上一篇]:https://tyler-yox.github.io/blog/algorithm/large-file-diff/
+[完整代码]:https://github.com/tyler-yox/architecture/blob/d9083d2fb71763557e6d4eb6875f9c001fd41596/core/src/main/java/com/rainyalley/architecture/core/arithmetic/sort/FileSorter.java
 
 # 测试
 
